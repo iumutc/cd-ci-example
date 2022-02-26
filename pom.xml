@@ -20,6 +20,7 @@
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
+        <project.build.testSourceDirectory>src/test/unit</project.build.testSourceDirectory>
     </properties>
     
 </project>
